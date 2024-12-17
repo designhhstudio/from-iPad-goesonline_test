@@ -1,0 +1,882 @@
+{
+  "vaultName": "from iPad",
+  "lastExport": 1734464343050,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon minimal-default-light minimal-default-dark minimal-readable links-int-on links-ext-on full-width-media trim-cols",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "events/upcoming test.md",
+    "events/upcoming wind 1 - Visit us on the Hill.md",
+    "events/upcoming wind 2 - Help us to clean on the Hill.md",
+    "events/upcoming wind 3 - Fotos on the Hill.md",
+    "events/upcoming wind 4 - Plan with us.md",
+    "events/upcoming wind 5 - Beehouse.md",
+    "events/upcoming_test.md",
+    "events/upcoming_wind1-Visit_us_on_the_Hill.md",
+    "events/upcoming_wind2-Help_us_to_clean_on_the_Hill.md",
+    "events/upcoming_wind3-Fotos_on_the_Hill.md",
+    "events/upcoming_wind4-Plan_with_us.md",
+    "events/upcoming_wind5-Beehouse.md",
+    "X_Assets/Riverside/Riverside_caravan.png",
+    "X_Assets/Riverside/Riverside_caravan-interior.png",
+    "X_Assets/Upcoming_Events/ai_created/theHill_amfitheater_ai.png",
+    "X_Assets/Upcoming_Events/ai_created/theHill_beehouse_ai.png",
+    "X_Assets/Upcoming_Events/ai_created/theHill_beehouse_ai 1.png",
+    "X_Assets/Upcoming_Events/ai_created/theHill_depot_ai.png",
+    "X_Assets/Upcoming_Events/ai_created/theHill_fireplace_ai.png",
+    "X_Assets/Upcoming_Events/ai_created/theHill_shed_ai.png",
+    "X_Assets/Upcoming_Events/ai_created/theHill_treehouse_ai.png",
+    "X_Assets/Upcoming_Events/ai_created/theHill_well_ai.png",
+    "X_Assets/family_whereweallare.png",
+    "X_Assets/food_tomatoes.png",
+    "X_Assets/gardening_fire.png",
+    "X_Assets/gardening_seedlings.png",
+    "X_Assets/Hans Hase.png",
+    "X_Assets/Story-Stage-Comics_Titelbild.png",
+    "X_Assets/theaterpedia-logo.png",
+    "X_Assets/theaterpedia-logo-2.png",
+    "X_Assets/theaterpedia-logo-3.png",
+    "X_Assets/theHill_bank-autumn.png",
+    "X_Assets/theHill_camomileview.png",
+    "X_Assets/theHill_dragons.png",
+    "X_Assets/theHill_home.png",
+    "X_Assets/theHill_SketchUp.png",
+    "X_Assets/theHill_smallmowers.png",
+    "X_Assets/theHill_viewtofields.png",
+    "X_Assets/theHill_viewtoplowedfield.png",
+    "Z_Utility/Scripts/Dataview/mentions-table.js",
+    "Z_Utility/Scripts/Dataview/project-progress.js",
+    "Z_Utility/Scripts/Dataview/tasks.js",
+    "Z_Utility/Scripts/Dataview/toc.js",
+    "Z_Utility/Scripts/Templater/_init_template.js",
+    "Z_Utility/Scripts/Templater/templater_tasks.js",
+    "Z_Utility/Templates/New note templates/! Daily note.md",
+    "Z_Utility/Templates/New note templates/! Default note.md",
+    "Z_Utility/Templates/New note templates/Meeting.md",
+    "Z_Utility/Templates/New note templates/Person.md",
+    "Z_Utility/Templates/New note templates/Project.md",
+    "Z_Utility/Templates/@-mention person.md",
+    "Z_Utility/Templates/New note.md",
+    "Z_Utility/Templates/Tasks menu.md",
+    "aboutus.md",
+    "dream.md",
+    "index.md",
+    "riverside.md",
+    "story.md",
+    "upcoming.md",
+    "lib/media/thehill_beehouse_ai.png",
+    "lib/media/thehill_camomileview.png",
+    "lib/media/thehill_smallmowers.png",
+    "lib/media/food_tomatoes.png",
+    "lib/media/thehill_sketchup.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "events/upcoming test.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1153,
+      "exportedPath": "events/upcoming-test.html",
+      "dependencies": [
+        "lib/media/thehill_beehouse_ai.png",
+        "lib/media/thehill_beehouse_ai.png"
+      ]
+    },
+    "events/upcoming wind 1 - Visit us on the Hill.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 739,
+      "exportedPath": "events/upcoming-wind-1-visit-us-on-the-hill.html",
+      "dependencies": [
+        "lib/media/thehill_camomileview.png",
+        "lib/media/thehill_camomileview.png"
+      ]
+    },
+    "events/upcoming wind 2 - Help us to clean on the Hill.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1054,
+      "exportedPath": "events/upcoming-wind-2-help-us-to-clean-on-the-hill.html",
+      "dependencies": [
+        "lib/media/thehill_smallmowers.png",
+        "lib/media/thehill_smallmowers.png"
+      ]
+    },
+    "events/upcoming wind 3 - Fotos on the Hill.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1022,
+      "exportedPath": "events/upcoming-wind-3-fotos-on-the-hill.html",
+      "dependencies": [
+        "lib/media/food_tomatoes.png",
+        "lib/media/food_tomatoes.png"
+      ]
+    },
+    "events/upcoming wind 4 - Plan with us.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 972,
+      "exportedPath": "events/upcoming-wind-4-plan-with-us.html",
+      "dependencies": [
+        "lib/media/thehill_sketchup.png",
+        "lib/media/thehill_sketchup.png"
+      ]
+    },
+    "events/upcoming wind 5 - Beehouse.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 945,
+      "exportedPath": "events/upcoming-wind-5-beehouse.html",
+      "dependencies": [
+        "lib/media/thehill_beehouse_ai.png",
+        "lib/media/thehill_beehouse_ai.png"
+      ]
+    },
+    "events/upcoming_test.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1153,
+      "exportedPath": "events/upcoming_test.html",
+      "dependencies": [
+        "lib/media/thehill_beehouse_ai.png",
+        "lib/media/thehill_beehouse_ai.png"
+      ]
+    },
+    "events/upcoming_wind1-Visit_us_on_the_Hill.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 739,
+      "exportedPath": "events/upcoming_wind1-visit_us_on_the_hill.html",
+      "dependencies": [
+        "lib/media/thehill_camomileview.png",
+        "lib/media/thehill_camomileview.png"
+      ]
+    },
+    "events/upcoming_wind2-Help_us_to_clean_on_the_Hill.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1054,
+      "exportedPath": "events/upcoming_wind2-help_us_to_clean_on_the_hill.html",
+      "dependencies": [
+        "lib/media/thehill_smallmowers.png",
+        "lib/media/thehill_smallmowers.png"
+      ]
+    },
+    "events/upcoming_wind3-Fotos_on_the_Hill.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1022,
+      "exportedPath": "events/upcoming_wind3-fotos_on_the_hill.html",
+      "dependencies": [
+        "lib/media/food_tomatoes.png",
+        "lib/media/food_tomatoes.png"
+      ]
+    },
+    "events/upcoming_wind4-Plan_with_us.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 972,
+      "exportedPath": "events/upcoming_wind4-plan_with_us.html",
+      "dependencies": [
+        "lib/media/thehill_sketchup.png",
+        "lib/media/thehill_sketchup.png"
+      ]
+    },
+    "events/upcoming_wind5-Beehouse.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 945,
+      "exportedPath": "events/upcoming_wind5-beehouse.html",
+      "dependencies": [
+        "lib/media/thehill_beehouse_ai.png",
+        "lib/media/thehill_beehouse_ai.png"
+      ]
+    },
+    "X_Assets/Riverside/Riverside_caravan.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1641832,
+      "exportedPath": "x_assets/riverside/riverside_caravan.png",
+      "dependencies": []
+    },
+    "X_Assets/Riverside/Riverside_caravan-interior.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1006452,
+      "exportedPath": "x_assets/riverside/riverside_caravan-interior.png",
+      "dependencies": []
+    },
+    "X_Assets/Upcoming_Events/ai_created/theHill_amfitheater_ai.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1323861,
+      "exportedPath": "x_assets/upcoming_events/ai_created/thehill_amfitheater_ai.png",
+      "dependencies": []
+    },
+    "X_Assets/Upcoming_Events/ai_created/theHill_beehouse_ai.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1392279,
+      "exportedPath": "x_assets/upcoming_events/ai_created/thehill_beehouse_ai.png",
+      "dependencies": []
+    },
+    "X_Assets/Upcoming_Events/ai_created/theHill_beehouse_ai 1.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1392279,
+      "exportedPath": "x_assets/upcoming_events/ai_created/thehill_beehouse_ai-1.png",
+      "dependencies": []
+    },
+    "X_Assets/Upcoming_Events/ai_created/theHill_depot_ai.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1255997,
+      "exportedPath": "x_assets/upcoming_events/ai_created/thehill_depot_ai.png",
+      "dependencies": []
+    },
+    "X_Assets/Upcoming_Events/ai_created/theHill_fireplace_ai.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1134566,
+      "exportedPath": "x_assets/upcoming_events/ai_created/thehill_fireplace_ai.png",
+      "dependencies": []
+    },
+    "X_Assets/Upcoming_Events/ai_created/theHill_shed_ai.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1234423,
+      "exportedPath": "x_assets/upcoming_events/ai_created/thehill_shed_ai.png",
+      "dependencies": []
+    },
+    "X_Assets/Upcoming_Events/ai_created/theHill_treehouse_ai.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1259008,
+      "exportedPath": "x_assets/upcoming_events/ai_created/thehill_treehouse_ai.png",
+      "dependencies": []
+    },
+    "X_Assets/Upcoming_Events/ai_created/theHill_well_ai.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 911667,
+      "exportedPath": "x_assets/upcoming_events/ai_created/thehill_well_ai.png",
+      "dependencies": []
+    },
+    "X_Assets/family_whereweallare.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1902125,
+      "exportedPath": "x_assets/family_whereweallare.png",
+      "dependencies": []
+    },
+    "X_Assets/food_tomatoes.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 589002,
+      "exportedPath": "x_assets/food_tomatoes.png",
+      "dependencies": []
+    },
+    "X_Assets/gardening_fire.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1998106,
+      "exportedPath": "x_assets/gardening_fire.png",
+      "dependencies": []
+    },
+    "X_Assets/gardening_seedlings.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1781469,
+      "exportedPath": "x_assets/gardening_seedlings.png",
+      "dependencies": []
+    },
+    "X_Assets/Hans Hase.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 779990,
+      "exportedPath": "x_assets/hans-hase.png",
+      "dependencies": []
+    },
+    "X_Assets/Story-Stage-Comics_Titelbild.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 405326,
+      "exportedPath": "x_assets/story-stage-comics_titelbild.png",
+      "dependencies": []
+    },
+    "X_Assets/theaterpedia-logo.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 7371,
+      "exportedPath": "x_assets/theaterpedia-logo.png",
+      "dependencies": []
+    },
+    "X_Assets/theaterpedia-logo-2.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 6751,
+      "exportedPath": "x_assets/theaterpedia-logo-2.png",
+      "dependencies": []
+    },
+    "X_Assets/theaterpedia-logo-3.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 6817,
+      "exportedPath": "x_assets/theaterpedia-logo-3.png",
+      "dependencies": []
+    },
+    "X_Assets/theHill_bank-autumn.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1601899,
+      "exportedPath": "x_assets/thehill_bank-autumn.png",
+      "dependencies": []
+    },
+    "X_Assets/theHill_camomileview.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1562566,
+      "exportedPath": "x_assets/thehill_camomileview.png",
+      "dependencies": []
+    },
+    "X_Assets/theHill_dragons.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1155051,
+      "exportedPath": "x_assets/thehill_dragons.png",
+      "dependencies": []
+    },
+    "X_Assets/theHill_home.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1371533,
+      "exportedPath": "x_assets/thehill_home.png",
+      "dependencies": []
+    },
+    "X_Assets/theHill_SketchUp.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 152940,
+      "exportedPath": "x_assets/thehill_sketchup.png",
+      "dependencies": []
+    },
+    "X_Assets/theHill_smallmowers.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1541724,
+      "exportedPath": "x_assets/thehill_smallmowers.png",
+      "dependencies": []
+    },
+    "X_Assets/theHill_viewtofields.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1248785,
+      "exportedPath": "x_assets/thehill_viewtofields.png",
+      "dependencies": []
+    },
+    "X_Assets/theHill_viewtoplowedfield.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1231909,
+      "exportedPath": "x_assets/thehill_viewtoplowedfield.png",
+      "dependencies": []
+    },
+    "Z_Utility/Scripts/Dataview/mentions-table.js": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 536,
+      "exportedPath": "z_utility/scripts/dataview/mentions-table.js",
+      "dependencies": []
+    },
+    "Z_Utility/Scripts/Dataview/project-progress.js": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 228,
+      "exportedPath": "z_utility/scripts/dataview/project-progress.js",
+      "dependencies": []
+    },
+    "Z_Utility/Scripts/Dataview/tasks.js": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 5746,
+      "exportedPath": "z_utility/scripts/dataview/tasks.js",
+      "dependencies": []
+    },
+    "Z_Utility/Scripts/Dataview/toc.js": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 921,
+      "exportedPath": "z_utility/scripts/dataview/toc.js",
+      "dependencies": []
+    },
+    "Z_Utility/Scripts/Templater/_init_template.js": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 3709,
+      "exportedPath": "z_utility/scripts/templater/_init_template.js",
+      "dependencies": []
+    },
+    "Z_Utility/Scripts/Templater/templater_tasks.js": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 4900,
+      "exportedPath": "z_utility/scripts/templater/templater_tasks.js",
+      "dependencies": []
+    },
+    "Z_Utility/Templates/New note templates/! Daily note.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 323,
+      "exportedPath": "z_utility/templates/new-note-templates/!-daily-note.html",
+      "dependencies": []
+    },
+    "Z_Utility/Templates/New note templates/! Default note.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 63,
+      "exportedPath": "z_utility/templates/new-note-templates/!-default-note.html",
+      "dependencies": []
+    },
+    "Z_Utility/Templates/New note templates/Meeting.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 275,
+      "exportedPath": "z_utility/templates/new-note-templates/meeting.html",
+      "dependencies": []
+    },
+    "Z_Utility/Templates/New note templates/Person.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 272,
+      "exportedPath": "z_utility/templates/new-note-templates/person.html",
+      "dependencies": []
+    },
+    "Z_Utility/Templates/New note templates/Project.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 200,
+      "exportedPath": "z_utility/templates/new-note-templates/project.html",
+      "dependencies": []
+    },
+    "Z_Utility/Templates/@-mention person.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 306,
+      "exportedPath": "z_utility/templates/@-mention-person.html",
+      "dependencies": []
+    },
+    "Z_Utility/Templates/New note.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 3933,
+      "exportedPath": "z_utility/templates/new-note.html",
+      "dependencies": []
+    },
+    "Z_Utility/Templates/Tasks menu.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 80,
+      "exportedPath": "z_utility/templates/tasks-menu.html",
+      "dependencies": []
+    },
+    "aboutus.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1445,
+      "exportedPath": "aboutus.html",
+      "dependencies": [
+        "x_assets/family_whereweallare.png",
+        "x_assets/family_whereweallare.png"
+      ]
+    },
+    "dream.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1681,
+      "exportedPath": "dream.html",
+      "dependencies": [
+        "x_assets/thehill_viewtoplowedfield.png",
+        "x_assets/thehill_viewtoplowedfield.png",
+        "x_assets/thehill_dragons.png",
+        "x_assets/thehill_dragons.png",
+        "x_assets/thehill_bank-autumn.png",
+        "x_assets/thehill_bank-autumn.png"
+      ]
+    },
+    "index.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 3591,
+      "exportedPath": "index.html",
+      "dependencies": [
+        "x_assets/thehill_home.png",
+        "x_assets/thehill_home.png"
+      ]
+    },
+    "riverside.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 428,
+      "exportedPath": "riverside.html",
+      "dependencies": [
+        "x_assets/thehill_viewtofields.png",
+        "x_assets/thehill_viewtofields.png"
+      ]
+    },
+    "story.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 2238,
+      "exportedPath": "story.html",
+      "dependencies": [
+        "x_assets/thehill_viewtofields.png",
+        "x_assets/thehill_viewtofields.png",
+        "x_assets/riverside/riverside_caravan.png",
+        "x_assets/riverside/riverside_caravan.png",
+        "x_assets/riverside/riverside_caravan-interior.png",
+        "x_assets/riverside/riverside_caravan-interior.png"
+      ]
+    },
+    "upcoming.md": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 3549,
+      "exportedPath": "upcoming.html",
+      "dependencies": [
+        "x_assets/upcoming_events/ai_created/thehill_shed_ai.png",
+        "x_assets/upcoming_events/ai_created/thehill_shed_ai.png",
+        "x_assets/upcoming_events/ai_created/thehill_treehouse_ai.png",
+        "x_assets/upcoming_events/ai_created/thehill_treehouse_ai.png",
+        "x_assets/upcoming_events/ai_created/thehill_depot_ai.png",
+        "x_assets/upcoming_events/ai_created/thehill_depot_ai.png",
+        "x_assets/upcoming_events/ai_created/thehill_amfitheater_ai.png",
+        "x_assets/upcoming_events/ai_created/thehill_amfitheater_ai.png",
+        "x_assets/gardening_seedlings.png",
+        "x_assets/gardening_seedlings.png",
+        "x_assets/upcoming_events/ai_created/thehill_well_ai.png",
+        "x_assets/upcoming_events/ai_created/thehill_well_ai.png",
+        "x_assets/gardening_fire.png",
+        "x_assets/gardening_fire.png",
+        "x_assets/upcoming_events/ai_created/thehill_fireplace_ai.png",
+        "x_assets/upcoming_events/ai_created/thehill_fireplace_ai.png"
+      ]
+    },
+    "lib/media/thehill_beehouse_ai.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1392279,
+      "exportedPath": "lib/media/thehill_beehouse_ai.png",
+      "dependencies": []
+    },
+    "lib/media/thehill_camomileview.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1562566,
+      "exportedPath": "lib/media/thehill_camomileview.png",
+      "dependencies": []
+    },
+    "lib/media/thehill_smallmowers.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1541724,
+      "exportedPath": "lib/media/thehill_smallmowers.png",
+      "dependencies": []
+    },
+    "lib/media/food_tomatoes.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 589002,
+      "exportedPath": "lib/media/food_tomatoes.png",
+      "dependencies": []
+    },
+    "lib/media/thehill_sketchup.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 152940,
+      "exportedPath": "lib/media/thehill_sketchup.png",
+      "dependencies": []
+    },
+    "x_assets/family_whereweallare.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1902125,
+      "exportedPath": "x_assets/family_whereweallare.png",
+      "dependencies": []
+    },
+    "x_assets/thehill_viewtoplowedfield.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1231909,
+      "exportedPath": "x_assets/thehill_viewtoplowedfield.png",
+      "dependencies": []
+    },
+    "x_assets/thehill_dragons.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1155051,
+      "exportedPath": "x_assets/thehill_dragons.png",
+      "dependencies": []
+    },
+    "x_assets/thehill_bank-autumn.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1601899,
+      "exportedPath": "x_assets/thehill_bank-autumn.png",
+      "dependencies": []
+    },
+    "x_assets/thehill_home.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1371533,
+      "exportedPath": "x_assets/thehill_home.png",
+      "dependencies": []
+    },
+    "x_assets/thehill_viewtofields.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1248785,
+      "exportedPath": "x_assets/thehill_viewtofields.png",
+      "dependencies": []
+    },
+    "x_assets/riverside/riverside_caravan.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1641832,
+      "exportedPath": "x_assets/riverside/riverside_caravan.png",
+      "dependencies": []
+    },
+    "x_assets/riverside/riverside_caravan-interior.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1006452,
+      "exportedPath": "x_assets/riverside/riverside_caravan-interior.png",
+      "dependencies": []
+    },
+    "x_assets/upcoming_events/ai_created/thehill_shed_ai.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1234423,
+      "exportedPath": "x_assets/upcoming_events/ai_created/thehill_shed_ai.png",
+      "dependencies": []
+    },
+    "x_assets/upcoming_events/ai_created/thehill_treehouse_ai.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1259008,
+      "exportedPath": "x_assets/upcoming_events/ai_created/thehill_treehouse_ai.png",
+      "dependencies": []
+    },
+    "x_assets/upcoming_events/ai_created/thehill_depot_ai.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1255997,
+      "exportedPath": "x_assets/upcoming_events/ai_created/thehill_depot_ai.png",
+      "dependencies": []
+    },
+    "x_assets/upcoming_events/ai_created/thehill_amfitheater_ai.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1323861,
+      "exportedPath": "x_assets/upcoming_events/ai_created/thehill_amfitheater_ai.png",
+      "dependencies": []
+    },
+    "x_assets/gardening_seedlings.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1781469,
+      "exportedPath": "x_assets/gardening_seedlings.png",
+      "dependencies": []
+    },
+    "x_assets/upcoming_events/ai_created/thehill_well_ai.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 911667,
+      "exportedPath": "x_assets/upcoming_events/ai_created/thehill_well_ai.png",
+      "dependencies": []
+    },
+    "x_assets/gardening_fire.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1998106,
+      "exportedPath": "x_assets/gardening_fire.png",
+      "dependencies": []
+    },
+    "x_assets/upcoming_events/ai_created/thehill_fireplace_ai.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1134566,
+      "exportedPath": "x_assets/upcoming_events/ai_created/thehill_fireplace_ai.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 29071,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 1911,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 131118,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 3652,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 223639,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1734464343050,
+      "sourceSize": 2596,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
